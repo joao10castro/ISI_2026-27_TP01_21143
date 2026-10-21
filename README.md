@@ -49,6 +49,9 @@ DOI 10.5281/zenodo.21592427.
    porque os caminhos originais são do meu computador.
 3. Executar com *Execute all*.
 
+## Links
+- https://youtu.be/2dviRSLltqY
+
 ## Referências
 - MD Mominul Islam, *The FIFA World Cup 2026 Master Dataset*, Zenodo,
   DOI 10.5281/zenodo.21592427
