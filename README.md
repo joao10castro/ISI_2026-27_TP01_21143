@@ -38,10 +38,11 @@ DOI 10.5281/zenodo.21592427.
 - Idade média por seleção
 
 ## Estrutura do repositório
-- `Workflow_Final.knwf`: workflow completo (importar no KNIME)
-- `Trabalho/Exports/`: ficheiros gerados (CSV, JSON e `mundial2026.db`)
-- Ficheiros CSV e JSON na raiz: dados de origem
-- `Fase1_...knwf` e `Fase2_...knwf`: versões intermédias do workflow
+- `doc/21143_doc.pdf`: relatório
+- `dataintegration/`: workflow KNIME (`.knwf`)
+- `data/input/`: ficheiros de entrada (CSV e JSON)
+- `data/output/`: ficheiros gerados (CSV, JSON e `mundial2026.db`)
+- `src/`: sem código fora do KNIME
 
 ## Como abrir o workflow
 1. No KNIME, importar o `Workflow_Final.knwf`.
